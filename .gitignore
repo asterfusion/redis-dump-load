@@ -1,3 +1,6 @@
+/.eggs/
+/.pc/
+/*.egg-info
 /MANIFEST
 /build
 /dist
